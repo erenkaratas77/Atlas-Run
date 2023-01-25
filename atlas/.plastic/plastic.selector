@@ -1,0 +1,4 @@
+repository "atlas@Karatass@cloud"
+  path "/"
+    br "/main"
+    co "/main"
